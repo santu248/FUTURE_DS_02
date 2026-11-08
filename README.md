@@ -12,7 +12,7 @@
 **Objective:** Analyze customer data to identify churn patterns, key retention drivers, and customer lifetime trends for a subscription-based business.
 
 👉 **[Click here to view Project 1 Interactive Dashboard (HTML)](dashboard.html)**  
-👉 **[Click here to view Project 1 Full Report (PDF)](Project_1_Churn_Report.pdf)** *(ফাইল আপলোড করার পর নাম ঠিক করে নিও)*
+👉 **[Click here to view Project 1 Full Report (PDF)](Project_1_Churn_Report.pdf)** 
 
 ### 📊 Datasets Used
 - RavenStack synthetic SaaS (credit: River @ Rivalytics)
