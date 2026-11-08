@@ -3,7 +3,7 @@
 **Intern:** Santu Mondal  
 **CIN ID:** FIT/OCT26/DS24105  
 **Domain:** Data Science & Analytics  
-**Tools Used:** Python (pandas), HTML/JS (Interactive Dashboard)
+**Tools Used:** Python (pandas), HTML/JS, JSON
 
 ---
 
@@ -13,11 +13,11 @@
 
 👉 **[Click here to view Project 1 Full Report (PDF)](Project_1_Churn_Report.pdf)**
 
-### 🔍 Key Findings (Telco)
-- **26.5%** overall churn rate.
-- **High-Risk Groups:** Month-to-month contracts (43% churn), first-year tenure (47% churn), Fiber optic internet users, E-check payment method users, customers with no tech support, and senior citizens.
+🔍 **Key Findings (Telco)**
+- 26.5% overall churn rate.
+- High-Risk Groups: Month-to-month contracts (43% churn), first-year tenure (47% churn), Fiber optic internet users, E-check payment method users, customers with no tech support, and senior citizens.
 
-### 💡 Recommendations (Telco)
+💡 **Recommendations (Telco)**
 - Encourage customers to switch to longer-term contracts.
 - Focus retention efforts on the first-year customer segment.
 - Provide targeted tech support and onboarding for Fiber optic and E-check users.
@@ -28,26 +28,38 @@
 
 **Objective:** Analyze the SaaS (RavenStack) dataset to understand account churn, MRR loss, and the impact of acquisition channels, industry, and trial conversions.
 
-👉 **[Click here to view Project 2 Full Report (PDF)](churn_retention_dashboard.pdf)** 
+👉 **[Click here to view Project 2 Full Report (PDF)](churn_retention_dashboard.pdf)**  
 👉 **[Click here to view the Python Analysis Code](analysis.pdf)**
 
-### 📊 Executive Summary (SaaS)
-- **22.0%** of 500 accounts churned.
-- Churned accounts held **$2,355,245** of $11,338,747 cumulative subscription MRR (**-21%**).
-- **Biggest Levers:** Acquisition channel, industry, and trial conversion.
+📊 **Executive Summary (SaaS)**
+- 22.0% of 500 accounts churned.
+- Churned accounts held $2,355,245 of $11,338,747 cumulative subscription MRR (-21%).
+- Biggest Levers: Acquisition channel, industry, and trial conversion.
 
-### 🔍 Key Findings (SaaS)
-- **Churn by Industry:** DevTools has the highest churn at **31.0%**, followed by FinTech (22.3%) and HealthTech (21.9%).
-- **Churn by Referral Source:** Event-sourced accounts churn at **30.2%**, while partner-referred accounts churn the least (14.6%).
-- **Churn by Country:** Germany (DE) shows the highest churn at **32.0%**.
-- **Trial Accounts:** Trial accounts churn significantly more (**26%**) compared to non-trial (21%).
-- **Cohort Retention:** Newer cohorts retain better (71% for 2023Q1 to 85% for 2024Q4), though recent cohorts have had less time to churn.
+🔍 **Key Findings (SaaS)**
+- **Churn by Industry:** DevTools has the highest churn at 31.0%, followed by FinTech (22.3%) and HealthTech (21.9%).
+- **Churn by Referral Source:** Event-sourced accounts churn at 30.2%, while partner-referred accounts churn the least (14.6%).
+- **Churn by Country:** Germany (DE) shows the highest churn at 32.0%.
+- **Trial Accounts:** Trial accounts churn significantly more (26%) compared to non-trial (21%).
+- **Cohort Retention:** Newer cohorts retain better (71% for 2023Q1 to 85% for 2024Q4).
 
-### 💡 Recommendations (SaaS)
+💡 **Recommendations (SaaS)**
 - Shift marketing spend to partner/organic channels and review DevTools product fit.
 - Improve trial-to-paid onboarding to reduce the 26% trial churn.
 - Prioritize product gaps (specifically "features", which is the top stated churn reason).
-- Note: Plan tier and support metrics do not separate churners, so pricing tier is not the main driver.
+
+---
+
+## 📌 Project 3: Customer Data Analysis Results (3)
+
+**Objective:** Provide a structured, raw data export (JSON format) of the churn and retention metrics derived from both the SaaS and Telco datasets for further programmatic use and validation.
+
+👉 **[Click here to view the Raw Analysis Results (PDF)](results.pdf)**
+
+📊 **Key Outputs Included:**
+- Overall churn rates for both SaaS (22.0%) and Telco (26.5%).
+- Detailed breakdowns of churn by industry, referral source, country, contract type, and payment method.
+- Retention cohort data and revenue lost metrics.
 
 ---
 
@@ -55,7 +67,7 @@
 - `Project_1_Churn_Report.pdf` - Project 1 (Telco) Report
 - `churn_retention_dashboard.pdf` - Project 2 (SaaS) Report
 - `analysis.pdf` - Python analysis script for both datasets
-- `dashboard.html` - Interactive retention dashboard (if uploaded)
+- `results.pdf` - Project 3 (Raw JSON Results)
 
 ---
 *This project was completed as part of the Data Science & Analytics Internship at Future Interns.*
