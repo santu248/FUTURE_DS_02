@@ -10,8 +10,7 @@
 ## 📌 Project 1: Telco Customer Churn Dataset (Kaggle) (1)
 
 **Objective:** Analyze customer data to identify churn patterns, key retention drivers, and customer lifetime trends for a subscription-based business.
-
-👉 **[Click here to view Project 1 Interactive Dashboard (HTML)](dashboard.html)**  
+  
 👉 **[Click here to view Project 1 Full Report (PDF)](Project_1_Churn_Report.pdf)** 
 
 ### 📊 Datasets Used
