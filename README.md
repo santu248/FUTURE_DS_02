@@ -28,8 +28,8 @@
 
 **Objective:** Analyze the SaaS (RavenStack) dataset to understand account churn, MRR loss, and the impact of acquisition channels, industry, and trial conversions.
 
-👉 **[Click here to view Project 2 Full Report (PDF)](churn_retention_dashboard)**  
-👉 **[Click here to view the Python Analysis Code](analysis)**
+👉 **[Click here to view Project 2 Full Report (PDF)](churn_retention_dashboard.pdf)** 
+👉 **[Click here to view the Python Analysis Code](analysis.pdf)**
 
 ### 📊 Executive Summary (SaaS)
 - **22.0%** of 500 accounts churned.
@@ -53,8 +53,8 @@
 
 ## 📁 Repository Files
 - `Project_1_Churn_Report.pdf` - Project 1 (Telco) Report
-- `Project_2_SaaS_Churn_Report.pdf` - Project 2 (SaaS) Report
-- `churn_analysis_code.pdf` - Python analysis script for both datasets
+- `churn_retention_dashboard.pdf` - Project 2 (SaaS) Report
+- `analysis.pdf` - Python analysis script for both datasets
 - `dashboard.html` - Interactive retention dashboard (if uploaded)
 
 ---
